@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+
+<html>
+    <meta charset="UTF-8">
+    <title>Strawberry Muffins</title>
+
+    <body>
+        <h1>Strawberry Muffins</h1>
+
+            <img src="./strawberrymuffins.jpg"></a>
+
+        <h2>Description:</h2>
+            <p>Delicious strawberry muffin recipe. Minimum ingredients and takes less than an hour to make! </p>
+
+            <h4>Ingredients:</h4>
+            <ul>
+                <li>Flour</li>
+                <li>Strawberries</li>
+                <li>Baking powder</li>
+                <li>Salt</li>
+                <li>Egg</li>
+                <li>Vanilla extract</li>
+                <li>Butter</li>
+                <li>Almond extract</li>
+                <li>Milk</li>
+                
+
+            </ul>
+            
+            <h4>Steps:</h4>
+            <ol>
+                <li>Add strawberries in a bowl, add small amount of flour and mix.</li>
+                <li>Beat the butter and sugar together in a seperate bowl.</li>
+                <li>Add a few eggs, one at a time.</li>
+                <li>Beat in the vanilla and almond extract.</li>
+                <li>Mix in flour and milk.</li>
+                <li>Add the strawberries in the mixture.</li>
+                <li>Distribute batter into a lined muffin tin.</li>
+                <li>Top batter with berries and bake for 30 minutes.</li>
+                <li>Let muffins cool and enjoy!</li>
+
+
+    </body>
+</html>
